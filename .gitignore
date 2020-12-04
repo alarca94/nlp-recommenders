@@ -1,0 +1,11 @@
+.idea/
+.ipynb_checkpoints/
+
+data/
+models/pretrained/
+documentation/
+results/
+
+__pycache__/
+
+nohup.out
